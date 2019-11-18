@@ -1,3 +1,4 @@
+=begin 
 require 'pry'
 class Doctor 
   
@@ -27,3 +28,4 @@ class Doctor
   end 
   
 end 
+=end 
