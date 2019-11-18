@@ -1,3 +1,4 @@
+=begin
 class Patient 
   
   attr_accessor :name 
@@ -26,3 +27,4 @@ class Patient
   end
     
 end 
+=end 
